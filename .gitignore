@@ -1,0 +1,5 @@
+# Project exclude paths
+/CommentsService/node_modules/
+/event-bus/node_modules/
+/PostsService/node_modules/
+/query/node_modules/
